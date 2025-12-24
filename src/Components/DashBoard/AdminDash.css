@@ -1,0 +1,25 @@
+label{
+    font-size: 16px;
+    color: rgb(81, 78, 78);
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.input-dt{
+    display: flex;
+    flex-direction: column;
+}   
+/*
+.container{
+    display: flex;
+    align-items: center;
+}
+
+*/
+
+@media screen and (max-width: 600px) {
+    .form-data{
+        flex-wrap: wrap;
+    }
+}
+
