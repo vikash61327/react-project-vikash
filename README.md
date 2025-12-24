@@ -17,6 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 //Uploading up Github for next updation
-git remote add origin https://github.com/vikash61327/react-project-vikash.git
-git branch -M main
-git push -u origin main
+
+1... git add .
+2... git commit -m "What change"
+3... git push -u origin main
